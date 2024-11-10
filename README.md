@@ -1,1 +1,1 @@
-This project is a MIPS Assembly language implementation of the classic Frogger game.
+This project is an implementation of the classic Frogger game using MIPS Assembly.
